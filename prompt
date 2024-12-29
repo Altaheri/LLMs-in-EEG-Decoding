@@ -1,0 +1,12 @@
+Do a comprehensive literature review on the papers or articles or research that are using a large-language model in EEG or electroencephalography brain signal decoding for different tasks. So the papers that utilize large-language models in EEG or electroencephalography data, I wanted a comprehensive literature review on that, and I want you to give me a table. So that table contains the name of the paper, the year that they published on, the main contribution inside that model they proposed, I mean, the main idea of their model, and also the dataset they are using, the tasks they are, or the application they are solving, the metrics they used, and also the performance they had, and also include the GPU they are using for training, and also include other very important information from the papers to give me a comprehensive table for recent papers that utilize large-language models in brain signal applications. Include columns that describe the foundation model that they are using.
+
+
+The table should be comprehensive, so include all the articles and all papers in that table. Also, you have to give a reference for each paper. You have to give a reference where the paper is published. Also include where this article is published, which the journal that they published the paper. Also, if the paper include, I mean, make their code open in GitHub or any other sources. So if it is open and the code for the implementation of the proposed paper or model or architecture is available, give me a link of that code. But if it is a code available, you can write a column, specify if the code is available and the link for that code. 
+
+Write this result so I can put it in GitHub, you know, the GitHub has files with .md. So I need this table to present in GitHub with this md, like readme.md. So I can copy the text and put it in GitHub directly. Include columns that describe the foundation model that they are using.
+
+Divide the table into two tables. The first one is for the paper that I explored. And the second table is for the paper that I will explore. So we will divide one table into two. In the first table, you can include the paper titled BELT. Both strapped EEG to language training by... So this paper is explored. And other papers are not explored, so I need to explore them. 
+
+Add another table that briefly writes the paper title, year, where it is published, performance, and code availability link.
+
+add this paper to the table: Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification
