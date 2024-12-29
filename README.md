@@ -1,5 +1,24 @@
 # Comprehensive Literature Review on Large Language Models in EEG Signal Decoding
 
+This table briefly overviews research papers, highlighting the title, year, publication venue, performance, and code availability.
+
+| Paper Title | Year | Publication Venue | Performance | Code Availability |
+|-------------|------|-------------------|-------------|--------------------|
+| [Decoding EEG Brain Activity for Multi-Modal Natural Language Processing](https://www.frontiersin.org/articles/10.3389/fnhum.2021.659410/full) | 2021 | *Frontiers in Human Neuroscience* | Improved accuracy over baselines; specific metrics not provided | Not available |
+| [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](https://arxiv.org/abs/2410.07507) | 2024 | *arXiv Preprint* | Demonstrated efficacy in generating coherent text from EEG signals | [Available](https://github.com/abhijitmishra/Thought2Text) |
+| [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction](https://arxiv.org/abs/2410.14971) | 2024 | *arXiv Preprint* | Outperformed state-of-the-art methods on EEG and MEG datasets | Not available |
+| [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433) | 2024 | *arXiv Preprint* | Outperformed baseline framework by 8.34% in ROUGE-1 F1 and 32.21% in BLEU-4 | Not available |
+| [BELT: Bootstrapped EEG-to-Language Training by Natural Language Supervision](https://arxiv.org/abs/2309.12056) | 2023 | *arXiv Preprint* | Achieved 42.31% BLEU-1 score and 67.32% precision in sentiment classification | Not available |
+| [EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation](https://arxiv.org/abs/2401.18006) | 2024 | *arXiv Preprint* | Achieved excellent performance in classifying normal vs. abnormal EEG | Not available |
+| [Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding](https://arxiv.org/abs/2312.09430) | 2023 | *arXiv Preprint* | Achieved 42.75% BLEU-1, 33.28% ROUGE-1-F, and 53.86% BERTScore-F | Not available |
+| [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://arxiv.org/abs/2405.18765) | 2024 | *arXiv Preprint* | Outperformed state-of-the-art methods in respective fields | [Available](https://github.com/935963004/LaBraM) |
+| [Neuro-GPT: Towards A Foundation Model for EEG](https://arxiv.org/abs/2311.03764) | 2023 | *arXiv Preprint* | Significantly improved classification performance compared to models trained from scratch | [Available](https://github.com/wenhui0206/NeuroGPT) |
+
+## Notes:
+- The detailed performance metrics and GPU information are available in the comprehensive table.
+- Visit the provided links for more details on each paper and its corresponding repository (if available).
+
+
 This table summarizes recent research papers that utilize large language models (LLMs) in EEG signal decoding for various tasks. It includes information about their contributions, datasets, applications, performance, publication venues, and code availability.
 
 | Paper Title | Year | Main Contribution | Dataset | Task/Application | Metrics Used | Performance | GPU Used | Journal/Publication Venue | Code Availability |
