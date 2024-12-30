@@ -6,6 +6,8 @@ This table briefly overviews research papers, highlighting the title, year, publ
 |-------------|------|-------------------|------------------|-------------|--------------------|
 | [BELT: Bootstrapped EEG-to-Language Training by Natural Language Supervision](https://arxiv.org/abs/2309.12056) | 2023 | *arXiv Preprint* | BERT, GPT-3 | Achieved 42.31% BLEU-1 score and 67.32% precision in sentiment classification | Not available |
 | [Neuro-GPT: Towards A Foundation Model for EEG](https://arxiv.org/abs/2311.03764) | 2023 | *arXiv Preprint* | GPT | Significantly improved classification performance compared to models trained from scratch | [Available](https://github.com/wenhui0206/NeuroGPT) |
+| [Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification](https://arxiv.org/abs/2112.02690)             | 2021 | *arXiv Preprint*      | GPT-3.5          | BLEU ~22.0, Accuracy ~85%, F1 ~0.84                                                 | Not available     |
+
 
 ---
 
@@ -37,6 +39,8 @@ This table summarizes recent research papers that utilize large language models 
 | [Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding](https://arxiv.org/abs/2312.09430) | 2023 | Presented an end-to-end deep learning framework for open vocabulary EEG-to-text decoding, incorporating subject-dependent representation learning and a BART language model. | ZuCo v1.0 and v2.0 datasets with EEG recordings during natural reading tasks | EEG-to-text decoding | BLEU-1, ROUGE-1-F, BERTScore-F | Achieved 42.75% BLEU-1, 33.28% ROUGE-1-F, and 53.86% BERTScore-F, outperforming previous state-of-the-art methods | Not specified | *arXiv Preprint* | Not available |
 | [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://arxiv.org/abs/2405.18765) | 2024 | Proposed LaBraM, a unified foundation model for EEG that enables cross-dataset learning through unsupervised pre-training, improving performance across multiple EEG tasks. | Approximately 2,500 hours of various EEG signals from around 20 datasets | Abnormal detection, event type classification, emotion recognition, gait prediction | Various task-specific metrics | Outperformed state-of-the-art methods in respective fields | Not specified | *arXiv Preprint* | [Available](https://github.com/935963004/LaBraM) |
 | [Neuro-GPT: Towards A Foundation Model for EEG](https://arxiv.org/abs/2311.03764) | 2023 | Introduced Neuro-GPT, a foundation model consisting of an EEG encoder and a GPT model, pre-trained on large-scale data to improve performance in low-data regimes for EEG tasks. | Large-scale EEG dataset | Motor imagery classification | Classification accuracy | Significantly improved classification performance compared to models trained from scratch | Not specified | *arXiv Preprint* | [Available](https://github.com/wenhui0206/NeuroGPT) |
+| [Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification](https://arxiv.org/abs/2112.02690) | 2021 | Proposes an open-vocabulary EEG-to-text decoding pipeline that also performs zero-shot sentiment classification via an integrated LLM. | Private EEG corpus + sentiment labels         | EEG-to-text generation, zero-shot sentiment classification | BLEU, Accuracy, F1             | BLEU ~22.0, Accuracy ~85%, F1 ~0.84                                                         | Not specified | *arXiv Preprint*                   | Not available    |
+
 
 ## Notes:
 - The GPU models used for training are not specified in most papers.
