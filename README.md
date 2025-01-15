@@ -7,6 +7,8 @@ This table briefly overviews research papers, highlighting the title, year, publ
 | [BELT: Bootstrapped EEG-to-Language Training by Natural Language Supervision](https://arxiv.org/abs/2309.12056) | 2023 | *arXiv Preprint* | BERT, GPT-3 | Achieved 42.31% BLEU-1 score and 67.32% precision in sentiment classification | Not available |
 | [Neuro-GPT: Towards A Foundation Model for EEG](https://arxiv.org/abs/2311.03764) | 2023 | *arXiv Preprint* | GPT | Significantly improved classification performance compared to models trained from scratch | [Available](https://github.com/wenhui0206/NeuroGPT) |
 | [Open Vocabulary Electroencephalography-to-Text Decoding and Zero-Shot Sentiment Classification](https://arxiv.org/abs/2112.02690)             | 2021 | *arXiv Preprint*      | GPT-3.5          | BLEU ~22.0, Accuracy ~85%, F1 ~0.84                                                 | Not available     |
+| [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://arxiv.org/abs/2405.18765) | 2024 | *arXiv Preprint* | Unified Foundation Model | Outperformed state-of-the-art methods in respective fields | [Available](https://github.com/935963004/LaBraM) |
+| [EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation](https://arxiv.org/abs/2401.18006) | 2024 | *arXiv Preprint* | GPT-3 | Achieved excellent performance in classifying normal vs. abnormal EEG | Not available |
 
 
 ---
@@ -19,9 +21,7 @@ This table briefly overviews research papers, highlighting the title, year, publ
 | [Thought2Text: Text Generation from EEG Signal using Large Language Models (LLMs)](https://arxiv.org/abs/2410.07507) | 2024 | *arXiv Preprint* | LLaMa, Mistral | Demonstrated efficacy in generating coherent text from EEG signals | [Available](https://github.com/abhijitmishra/Thought2Text) |
 | [BrainECHO: Semantic Brain Signal Decoding through Vector-Quantized Spectrogram Reconstruction](https://arxiv.org/abs/2410.14971) | 2024 | *arXiv Preprint* | Whisper | Outperformed state-of-the-art methods on EEG and MEG datasets | Not available |
 | [Enhancing EEG-to-Text Decoding through Transferable Representations from Pre-trained Contrastive EEG-Text Masked Autoencoder](https://arxiv.org/abs/2402.17433) | 2024 | *arXiv Preprint* | BART | Outperformed baseline framework by 8.34% in ROUGE-1 F1 and 32.21% in BLEU-4 | Not available |
-| [EEG-GPT: Exploring Capabilities of Large Language Models for EEG Classification and Interpretation](https://arxiv.org/abs/2401.18006) | 2024 | *arXiv Preprint* | GPT-3 | Achieved excellent performance in classifying normal vs. abnormal EEG | Not available |
 | [Deep Representation Learning for Open Vocabulary Electroencephalography-to-Text Decoding](https://arxiv.org/abs/2312.09430) | 2023 | *arXiv Preprint* | BART | Achieved 42.75% BLEU-1, 33.28% ROUGE-1-F, and 53.86% BERTScore-F | Not available |
-| [Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI](https://arxiv.org/abs/2405.18765) | 2024 | *arXiv Preprint* | Unified Foundation Model | Outperformed state-of-the-art methods in respective fields | [Available](https://github.com/935963004/LaBraM) |
 
 ---
 
