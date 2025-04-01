@@ -1,5 +1,22 @@
 # Review on Large Language Models in EEG Signal Decoding
 
+Recommended review papers cover key components of modern artificial intelligence:
+
+- Self-supervised learning (SSL)  
+[A Cookbook of Self-Supervised Learning](https://ai.meta.com/blog/self-supervised-learning-practical-guide/)
+
+- Multimodal learning  
+[Self-Supervised Multimodal Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10630605/?casa_token=6SoLtSVwWVQAAAAA:0fVfKHrEFcpn9e8v5QxZbgmnfciBtZGwYo7HrByIvR0_1wZVWe32xL2Cor_w69N-X3qyX_Pn8w)
+
+- Foundation models  
+[Foundation Models Defining a New Era in Vision: A Survey and Outlook](https://ieeexplore.ieee.org/abstract/document/10834497/?casa_token=UsePsFo52zcAAAAA:Zyequ-7KhPJ656tORInzu5uIjxsofM3nmKL2PdWzMaQupzGbJstaQlWXPQXbk2WpgLFDLWhmFQ)  
+[A Survey of Large Language Models](https://paper-notes.zhjwpku.com/assets/pdfs/llm_survey_2303.18223.pdf)
+
+- Learning from models  
+[Learning from models beyond fine-tuning](https://www.nature.com/articles/s42256-024-00961-0)
+
+---
+
 This table briefly overviews research papers, highlighting the title, year, publication venue, performance, and code availability.
 
 | Paper Title | Year | Publication Venue | Foundation Model | Performance | Code Availability |
