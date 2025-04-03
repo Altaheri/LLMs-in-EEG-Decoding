@@ -9,7 +9,7 @@ Recommended review papers cover key components of modern artificial intelligence
 [Self-Supervised Multimodal Learning: A Survey](https://ieeexplore.ieee.org/abstract/document/10630605/?casa_token=6SoLtSVwWVQAAAAA:0fVfKHrEFcpn9e8v5QxZbgmnfciBtZGwYo7HrByIvR0_1wZVWe32xL2Cor_w69N-X3qyX_Pn8w)
 
 - Foundation models  
-[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)
+[On the Opportunities and Risks of Foundation Models](https://arxiv.org/abs/2108.07258)  
 [Foundation Models Defining a New Era in Vision: A Survey and Outlook](https://ieeexplore.ieee.org/abstract/document/10834497/?casa_token=UsePsFo52zcAAAAA:Zyequ-7KhPJ656tORInzu5uIjxsofM3nmKL2PdWzMaQupzGbJstaQlWXPQXbk2WpgLFDLWhmFQ)  
 [A Survey of Large Language Models](https://paper-notes.zhjwpku.com/assets/pdfs/llm_survey_2303.18223.pdf)  
 
